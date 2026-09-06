@@ -1,0 +1,9 @@
+Acknowledgments:
+
+- Libraries Used:
+  * yfinance: Used to programmatically download historical monthly price data for the selected stock tickers directly from Yahoo Finance.
+  * cvxopt: Used to perform the mathematical quadratic programming optimization for the minimum risk portfolio and efficient frontier portfolios[cite: 1], ensuring high precision for autograder tests.
+
+- Generative AI Tools:
+  * Used Google Gemini to structure the pandas calculations, troubleshoot yfinance, and build the CVXOPT mean-variance optimization models.
+  * Transcript Link: https://gemini.google.com/app/701351c8bac9049a
